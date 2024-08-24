@@ -1,3 +1,5 @@
-alpine
-kasmweb/ngibx:1.25.3
-python:apline3.19
+nginx
+k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+xhofe/alist:latest
+python:alpine3.19
+
